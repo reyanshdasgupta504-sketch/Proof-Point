@@ -6,7 +6,7 @@ PROOFPOINT is a research workspace designed to help users organise claims, docum
 
 Live Demo
 
-"Launch PROOFPOINT" (https://proofpoint-research-evidence-workspace-yuy1el.v2.appdeploy.ai/)
+[Launch PROOFPOINT](https://prfp.vercel.app⁠)
 
 Features
 
